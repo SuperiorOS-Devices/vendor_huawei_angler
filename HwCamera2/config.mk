@@ -22,6 +22,17 @@ PRODUCT_COPY_FILES += \
     $(VENDOR_PATH)/system/cameraplugins/mode/documentrecognition/documentrecognition.png:system/cameraplugins/mode/documentrecognition/documentrecognition.png \
     $(VENDOR_PATH)/system/cameraplugins/mode/documentrecognition/documentrecognition_dark.png:system/cameraplugins/mode/documentrecognition/documentrecognition_dark.png \
     $(VENDOR_PATH)/system/cameraplugins/mode/documentrecognition/documentrecognition_dm.png:system/cameraplugins/mode/documentrecognition/documentrecognition_dm.png \
+    $(VENDOR_PATH)/system/cameraplugins/mode/documentrecognition/emui9/CN_documents_01.png:system/cameraplugins/mode/documentrecognition/emui9/CN_documents_01.png \
+    $(VENDOR_PATH)/system/cameraplugins/mode/documentrecognition/emui9/CN_documents_01_dm.png:system/cameraplugins/mode/documentrecognition/emui9/CN_documents_01_dm.png \
+    $(VENDOR_PATH)/system/cameraplugins/mode/documentrecognition/emui9/CN_documents_02.png:system/cameraplugins/mode/documentrecognition/emui9/CN_documents_02.png \
+    $(VENDOR_PATH)/system/cameraplugins/mode/documentrecognition/emui9/CN_documents_02_dm.png:system/cameraplugins/mode/documentrecognition/emui9/CN_documents_02_dm.png \
+    $(VENDOR_PATH)/system/cameraplugins/mode/documentrecognition/emui9/documents_01.png:system/cameraplugins/mode/documentrecognition/emui9/documents_01.png \
+    $(VENDOR_PATH)/system/cameraplugins/mode/documentrecognition/emui9/documents_01_dm.png:system/cameraplugins/mode/documentrecognition/emui9/documents_01_dm.png \
+    $(VENDOR_PATH)/system/cameraplugins/mode/documentrecognition/emui9/documents_02.png:system/cameraplugins/mode/documentrecognition/emui9/documents_02.png \
+    $(VENDOR_PATH)/system/cameraplugins/mode/documentrecognition/emui9/documents_02_dm.png:system/cameraplugins/mode/documentrecognition/emui9/documents_02_dm.png \
+    $(VENDOR_PATH)/system/cameraplugins/mode/documentrecognition/emui9/ic_camera_documents.png:system/cameraplugins/mode/documentrecognition/emui9/ic_camera_documents.png \
+    $(VENDOR_PATH)/system/cameraplugins/mode/documentrecognition/emui9/ic_camera_documents_dm.png:system/cameraplugins/mode/documentrecognition/emui9/ic_camera_documents_dm.png \
+    $(VENDOR_PATH)/system/cameraplugins/mode/documentrecognition/emui9/ic_documents_dark.png:system/cameraplugins/mode/documentrecognition/emui9/ic_documents_dark.png \
     $(VENDOR_PATH)/system/cameraplugins/mode/documentrecognition/pic_1.png:system/cameraplugins/mode/documentrecognition/pic_1.png \
     $(VENDOR_PATH)/system/cameraplugins/mode/documentrecognition/pic_1_dm.png:system/cameraplugins/mode/documentrecognition/pic_1_dm.png \
     $(VENDOR_PATH)/system/cameraplugins/mode/documentrecognition/pic_2.png:system/cameraplugins/mode/documentrecognition/pic_2.png \
@@ -30,6 +41,17 @@ PRODUCT_COPY_FILES += \
     $(VENDOR_PATH)/system/cameraplugins/mode/food/CN_pic_1_dm.png:system/cameraplugins/mode/food/CN_pic_1_dm.png \
     $(VENDOR_PATH)/system/cameraplugins/mode/food/CN_pic_2.png:system/cameraplugins/mode/food/CN_pic_2.png \
     $(VENDOR_PATH)/system/cameraplugins/mode/food/CN_pic_2_dm.png:system/cameraplugins/mode/food/CN_pic_2_dm.png \
+    $(VENDOR_PATH)/system/cameraplugins/mode/food/emui9/CN_food_01.png:system/cameraplugins/mode/food/emui9/CN_food_01.png \
+    $(VENDOR_PATH)/system/cameraplugins/mode/food/emui9/CN_food_01_dm.png:system/cameraplugins/mode/food/emui9/CN_food_01_dm.png \
+    $(VENDOR_PATH)/system/cameraplugins/mode/food/emui9/CN_food_02.png:system/cameraplugins/mode/food/emui9/CN_food_02.png \
+    $(VENDOR_PATH)/system/cameraplugins/mode/food/emui9/CN_food_02_dm.png:system/cameraplugins/mode/food/emui9/CN_food_02_dm.png \
+    $(VENDOR_PATH)/system/cameraplugins/mode/food/emui9/food_01.png:system/cameraplugins/mode/food/emui9/food_01.png \
+    $(VENDOR_PATH)/system/cameraplugins/mode/food/emui9/food_01_dm.png:system/cameraplugins/mode/food/emui9/food_01_dm.png \
+    $(VENDOR_PATH)/system/cameraplugins/mode/food/emui9/food_02.png:system/cameraplugins/mode/food/emui9/food_02.png \
+    $(VENDOR_PATH)/system/cameraplugins/mode/food/emui9/food_02_dm.png:system/cameraplugins/mode/food/emui9/food_02_dm.png \
+    $(VENDOR_PATH)/system/cameraplugins/mode/food/emui9/ic_camera_food.png:system/cameraplugins/mode/food/emui9/ic_camera_food.png \
+    $(VENDOR_PATH)/system/cameraplugins/mode/food/emui9/ic_camera_food_dm.png:system/cameraplugins/mode/food/emui9/ic_camera_food_dm.png \
+    $(VENDOR_PATH)/system/cameraplugins/mode/food/emui9/ic_food_dark.png:system/cameraplugins/mode/food/emui9/ic_food_dark.png \
     $(VENDOR_PATH)/system/cameraplugins/mode/food/food.png:system/cameraplugins/mode/food/food.png \
     $(VENDOR_PATH)/system/cameraplugins/mode/food/food_dark.png:system/cameraplugins/mode/food/food_dark.png \
     $(VENDOR_PATH)/system/cameraplugins/mode/food/food_dm.png:system/cameraplugins/mode/food/food_dm.png \
@@ -52,6 +74,17 @@ PRODUCT_COPY_FILES += \
     $(VENDOR_PATH)/system/cameraplugins/mode/objectrecognition/CN_pic_1_dm.png:system/cameraplugins/mode/objectrecognition/CN_pic_1_dm.png \
     $(VENDOR_PATH)/system/cameraplugins/mode/objectrecognition/CN_pic_2.png:system/cameraplugins/mode/objectrecognition/CN_pic_2.png \
     $(VENDOR_PATH)/system/cameraplugins/mode/objectrecognition/CN_pic_2_dm.png:system/cameraplugins/mode/objectrecognition/CN_pic_2_dm.png \
+    $(VENDOR_PATH)/system/cameraplugins/mode/objectrecognition/emui9.0/CN_search_01.png:system/cameraplugins/mode/objectrecognition/emui9.0/CN_search_01.png \
+    $(VENDOR_PATH)/system/cameraplugins/mode/objectrecognition/emui9.0/CN_search_01_dm.png:system/cameraplugins/mode/objectrecognition/emui9.0/CN_search_01_dm.png \
+    $(VENDOR_PATH)/system/cameraplugins/mode/objectrecognition/emui9.0/CN_search_02.png:system/cameraplugins/mode/objectrecognition/emui9.0/CN_search_02.png \
+    $(VENDOR_PATH)/system/cameraplugins/mode/objectrecognition/emui9.0/CN_search_02_dm.png:system/cameraplugins/mode/objectrecognition/emui9.0/CN_search_02_dm.png \
+    $(VENDOR_PATH)/system/cameraplugins/mode/objectrecognition/emui9.0/ic_camera_search.png:system/cameraplugins/mode/objectrecognition/emui9.0/ic_camera_search.png \
+    $(VENDOR_PATH)/system/cameraplugins/mode/objectrecognition/emui9.0/ic_camera_search_dm.png:system/cameraplugins/mode/objectrecognition/emui9.0/ic_camera_search_dm.png \
+    $(VENDOR_PATH)/system/cameraplugins/mode/objectrecognition/emui9.0/ic_search_dark.png:system/cameraplugins/mode/objectrecognition/emui9.0/ic_search_dark.png \
+    $(VENDOR_PATH)/system/cameraplugins/mode/objectrecognition/emui9.0/search_01.png:system/cameraplugins/mode/objectrecognition/emui9.0/search_01.png \
+    $(VENDOR_PATH)/system/cameraplugins/mode/objectrecognition/emui9.0/search_01_dm.png:system/cameraplugins/mode/objectrecognition/emui9.0/search_01_dm.png \
+    $(VENDOR_PATH)/system/cameraplugins/mode/objectrecognition/emui9.0/search_02.png:system/cameraplugins/mode/objectrecognition/emui9.0/search_02.png \
+    $(VENDOR_PATH)/system/cameraplugins/mode/objectrecognition/emui9.0/search_02_dm.png:system/cameraplugins/mode/objectrecognition/emui9.0/search_02_dm.png \
     $(VENDOR_PATH)/system/cameraplugins/mode/objectrecognition/object_recognition.png:system/cameraplugins/mode/objectrecognition/object_recognition.png \
     $(VENDOR_PATH)/system/cameraplugins/mode/objectrecognition/object_recognition_dark.png:system/cameraplugins/mode/objectrecognition/object_recognition_dark.png \
     $(VENDOR_PATH)/system/cameraplugins/mode/objectrecognition/object_recognition_dm.png:system/cameraplugins/mode/objectrecognition/object_recognition_dm.png \
@@ -74,6 +107,17 @@ PRODUCT_COPY_FILES += \
     $(VENDOR_PATH)/system/cameraplugins/mode/watermark/CN_pic_1_dm.png:system/cameraplugins/mode/watermark/CN_pic_1_dm.png \
     $(VENDOR_PATH)/system/cameraplugins/mode/watermark/CN_pic_2.png:system/cameraplugins/mode/watermark/CN_pic_2.png \
     $(VENDOR_PATH)/system/cameraplugins/mode/watermark/CN_pic_2_dm.png:system/cameraplugins/mode/watermark/CN_pic_2_dm.png \
+    $(VENDOR_PATH)/system/cameraplugins/mode/watermark/emui9/CN_watermark_01.png:system/cameraplugins/mode/watermark/emui9/CN_watermark_01.png \
+    $(VENDOR_PATH)/system/cameraplugins/mode/watermark/emui9/CN_watermark_01_dm.png:system/cameraplugins/mode/watermark/emui9/CN_watermark_01_dm.png \
+    $(VENDOR_PATH)/system/cameraplugins/mode/watermark/emui9/CN_watermark_02.png:system/cameraplugins/mode/watermark/emui9/CN_watermark_02.png \
+    $(VENDOR_PATH)/system/cameraplugins/mode/watermark/emui9/CN_watermark_02_dm.png:system/cameraplugins/mode/watermark/emui9/CN_watermark_02_dm.png \
+    $(VENDOR_PATH)/system/cameraplugins/mode/watermark/emui9/ic_camera_watermark.png:system/cameraplugins/mode/watermark/emui9/ic_camera_watermark.png \
+    $(VENDOR_PATH)/system/cameraplugins/mode/watermark/emui9/ic_camera_watermark_dm.png:system/cameraplugins/mode/watermark/emui9/ic_camera_watermark_dm.png \
+    $(VENDOR_PATH)/system/cameraplugins/mode/watermark/emui9/ic_watermark_dark.png:system/cameraplugins/mode/watermark/emui9/ic_watermark_dark.png \
+    $(VENDOR_PATH)/system/cameraplugins/mode/watermark/emui9/watermark_01.png:system/cameraplugins/mode/watermark/emui9/watermark_01.png \
+    $(VENDOR_PATH)/system/cameraplugins/mode/watermark/emui9/watermark_01_dm.png:system/cameraplugins/mode/watermark/emui9/watermark_01_dm.png \
+    $(VENDOR_PATH)/system/cameraplugins/mode/watermark/emui9/watermark_02.png:system/cameraplugins/mode/watermark/emui9/watermark_02.png \
+    $(VENDOR_PATH)/system/cameraplugins/mode/watermark/emui9/watermark_02_dm.png:system/cameraplugins/mode/watermark/emui9/watermark_02_dm.png \
     $(VENDOR_PATH)/system/cameraplugins/mode/watermark/pic_1.png:system/cameraplugins/mode/watermark/pic_1.png \
     $(VENDOR_PATH)/system/cameraplugins/mode/watermark/pic_1_dm.png:system/cameraplugins/mode/watermark/pic_1_dm.png \
     $(VENDOR_PATH)/system/cameraplugins/mode/watermark/pic_2.png:system/cameraplugins/mode/watermark/pic_2.png \
@@ -81,6 +125,22 @@ PRODUCT_COPY_FILES += \
     $(VENDOR_PATH)/system/cameraplugins/mode/watermark/watermark.png:system/cameraplugins/mode/watermark/watermark.png \
     $(VENDOR_PATH)/system/cameraplugins/mode/watermark/watermark_dark.png:system/cameraplugins/mode/watermark/watermark_dark.png \
     $(VENDOR_PATH)/system/cameraplugins/mode/watermark/watermark_dm.png:system/cameraplugins/mode/watermark/watermark_dm.png \
+    $(VENDOR_PATH)/system/priv-app/HwCamera2/lib/arm/libHW_Pano_f.so:system/priv-app/HwCamera2/lib/arm/libHW_Pano_f.so \
+    $(VENDOR_PATH)/system/priv-app/HwCamera2/lib/arm/libHwPostCamera_jni.so:system/priv-app/HwCamera2/lib/arm/libHwPostCamera_jni.so \
+    $(VENDOR_PATH)/system/priv-app/HwCamera2/lib/arm/libIvw35.so:system/priv-app/HwCamera2/lib/arm/libIvw35.so \
+    $(VENDOR_PATH)/system/priv-app/HwCamera2/lib/arm/libJniVoiceCapture.so:system/priv-app/HwCamera2/lib/arm/libJniVoiceCapture.so \
+    $(VENDOR_PATH)/system/priv-app/HwCamera2/lib/arm/libTargetTracking.so:system/priv-app/HwCamera2/lib/arm/libTargetTracking.so \
+    $(VENDOR_PATH)/system/priv-app/HwCamera2/lib/arm/libfyusenet.so:system/priv-app/HwCamera2/lib/arm/libfyusenet.so \
+    $(VENDOR_PATH)/system/priv-app/HwCamera2/lib/arm/libgif_maker.so:system/priv-app/HwCamera2/lib/arm/libgif_maker.so \
+    $(VENDOR_PATH)/system/priv-app/HwCamera2/lib/arm/libjni_front_panorama_beauty_hidl.so:system/priv-app/HwCamera2/lib/arm/libjni_front_panorama_beauty_hidl.so \
+    $(VENDOR_PATH)/system/priv-app/HwCamera2/lib/arm/libjni_front_panorama_camera2.so:system/priv-app/HwCamera2/lib/arm/libjni_front_panorama_camera2.so \
+    $(VENDOR_PATH)/system/priv-app/HwCamera2/lib/arm/libjni_mrc_cg_filters_camera2.so:system/priv-app/HwCamera2/lib/arm/libjni_mrc_cg_filters_camera2.so \
+    $(VENDOR_PATH)/system/priv-app/HwCamera2/lib/arm/libmorpho_memory_allocator.so:system/priv-app/HwCamera2/lib/arm/libmorpho_memory_allocator.so \
+    $(VENDOR_PATH)/system/priv-app/HwCamera2/lib/arm/libmorpho_panorama_gp.so:system/priv-app/HwCamera2/lib/arm/libmorpho_panorama_gp.so \
+    $(VENDOR_PATH)/system/priv-app/HwCamera2/lib/arm/libscanner.so:system/priv-app/HwCamera2/lib/arm/libscanner.so \
+    $(VENDOR_PATH)/system/priv-app/HwCamera2/lib/arm/libtrack.so:system/priv-app/HwCamera2/lib/arm/libtrack.so \
+    $(VENDOR_PATH)/system/priv-app/HwCamera2/lib/arm/vendor.huawei.hardware.camera.cfgsvr@1.0.so:system/priv-app/HwCamera2/lib/arm/vendor.huawei.hardware.camera.cfgsvr@1.0.so \
+    $(VENDOR_PATH)/system/priv-app/HwCamera2/lib/arm/vendor.huawei.hardware.camera.cfgsvr@1.1.so:system/priv-app/HwCamera2/lib/arm/vendor.huawei.hardware.camera.cfgsvr@1.1.so \
     $(VENDOR_PATH)/system/watermark/wm/wm_1_1.zip:system/watermark/wm/wm_1_1.zip \
     $(VENDOR_PATH)/system/watermark/wm/wm_1_2.zip:system/watermark/wm/wm_1_2.zip \
     $(VENDOR_PATH)/system/watermark/wm/wm_1_3.zip:system/watermark/wm/wm_1_3.zip \
